@@ -8,5 +8,5 @@ function isTrue($has, $three='', $args='') {
 		return(false);
 	}
 	// and disbar.
-
+}
 ?>
